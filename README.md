@@ -4,6 +4,8 @@
 
 Este innovador proyecto demuestra una integración de vanguardia entre la mensajería de WhatsApp, los potentes modelos de lenguaje de OpenAI y la Generación Aumentada por Recuperación (RAG) para crear un chatbot inteligente y consciente del contexto. El bot está diseñado para proporcionar respuestas precisas y relevantes, aprovechando tanto su amplia base de conocimientos como información específica recuperada de documentos conectados.
 
+https://github.com/user-attachments/assets/1c93e52a-de7b-46e9-a804-d3498dde1ec2
+
 ## Características Principales
 
 - **Integración con WhatsApp**: Se conecta perfectamente con la API de WhatsApp Business para mensajería en tiempo real.
