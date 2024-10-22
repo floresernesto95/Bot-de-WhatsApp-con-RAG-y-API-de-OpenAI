@@ -1,4 +1,4 @@
-# Bot de WhatsApp con RAG y API de OpenAI
+# Bot de WhatsApp con RAG y OpenAI API
 
 ## Visión General del Proyecto
 
